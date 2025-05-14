@@ -7,6 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+
+<img 
+  align="right" 
+  height="400" 
+  src="https://user-images.githubusercontent.com/58109796/233058941-9dd6c50a-a5ea-45fd-b788-c3bb8e00bffe.gif" 
+/>
+
+
+
 - 🔭 I’m currently working on **Machine Learning and Cpp**
 
 - 🌱 I’m currently learning **Cpp and MLOPs**
