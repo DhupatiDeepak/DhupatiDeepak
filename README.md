@@ -96,8 +96,7 @@
     </a>
   </p>
 
-  <div align="center" class="stats-boxes">
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=dhupatideepak&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <div class="stats-boxes">
     <img src="https://github-readme-stats.vercel.app/api?username=dhupatideepak&show_icons=true&locale=en" alt="GitHub Stats" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhupatideepak" alt="Streak Stats" />
   </div>
