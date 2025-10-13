@@ -25,14 +25,6 @@
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" height="220" alt="Futuristic Coding GIF"/>
 </p>
 
-
-
-
-
-
-
-
-
 ---
 
 ## 💡 About Me
@@ -62,7 +54,7 @@
       <h3>Vision-Style Gesture Control</h3>
       <p>🚀 Real-time gesture-based control using <b>Python + OpenCV + MediaPipe</b>.</p>
       <p><img src="https://skillicons.dev/icons?i=python,opencv" height="18"/></p>
-      <p><a href="https://github.com/DhupatiDeepak"><img src="https://img.shields.io/badge/Repo-View-black?logo=github"/></a></p>
+      <p><a href="https://github.com/DhupatiDeepak/Sign-languge-to-text-converter"><img src="https://img.shields.io/badge/Repo-View-black?logo=github"/></a></p>
     </td>
     <td width="50%">
       <h3>JARVIS-Inspired Voice Interface</h3>
@@ -76,13 +68,13 @@
       <h3>Medicine Dispenser (Web)</h3>
       <p>💊 Smart web app with payment & schedule integration.</p>
       <p><img src="https://skillicons.dev/icons?i=html,css,js" height="18"/></p>
-      <p><a href="https://dhupatideepak.github.io/MyPortfolio" target="_blank"><img src="https://img.shields.io/badge/Live-Demo-00f5ff"/></a></p>
+      <p><a href="https://github.com/DhupatiDeepak/Automatic-Medicine-dispenser-" target="_blank"><img src="https://img.shields.io/badge/Live-Demo-00f5ff"/></a></p>
     </td>
     <td width="50%">
       <h3>Morse Code Generator</h3>
       <p>📡 Embedded C-based text → Morse encoder.</p>
       <p><img src="https://skillicons.dev/icons?i=c,arduino" height="18"/></p>
-      <p><a href="https://github.com/DhupatiDeepak"><img src="https://img.shields.io/badge/Repo-View-black?logo=github"/></a></p>
+      <p><a href="https://github.com/DhupatiDeepak/Morse-code"><img src="https://img.shields.io/badge/Repo-View-black?logo=github"/></a></p>
     </td>
   </tr>
 </table>
